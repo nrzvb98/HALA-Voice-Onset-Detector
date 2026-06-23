@@ -1,0 +1,30 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+build/
+dist/
+*.spec
+*.egg-info/
+
+# Local tooling config
+.claude/
+
+# Runtime data and user outputs
+outputs/*
+*_hala_output.csv
+*_hala_output_edited*.csv
+
+# Audio data: keep real participant/session audio out of git
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.m4v
+
+# Allow intentional examples
+!examples/outputs/*.csv
+!outputs/.gitkeep
+
+# Auto-generated session output
+*_auto.csv

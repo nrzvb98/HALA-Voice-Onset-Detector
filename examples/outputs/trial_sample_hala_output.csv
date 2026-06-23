@@ -1,0 +1,13 @@
+trial_index,trial_start_global,trial_end_global,beep_timestamp_global,rt_first_speech_ms,rt_main_response_ms,prefiller_present,flag_anticipatory,flag_timeout,segments_count
+1,0.0000,2.2818,0.4547,1148.2,1148.2,false,false,false,0
+2,2.2818,3.9031,2.3318,499.3,499.3,false,false,false,0
+3,3.9031,5.9511,3.9531,1011.8,1011.8,false,false,false,0
+4,5.9511,8.5964,6.0011,848.9,1641.9,true,false,false,0
+5,8.5964,11.5618,8.6464,1322.8,1957.8,true,false,false,0
+6,11.5618,14.1432,11.6118,1074.7,2026.7,true,false,false,0
+7,14.1432,16.3831,14.1932,1285.7,1285.7,false,false,false,0
+8,16.3831,18.2178,16.4331,809.5,809.5,false,false,false,0
+9,18.2178,20.2872,18.2678,1254.1,1254.1,false,false,false,0
+10,20.2872,21.5885,20.3372,180.2,180.2,false,false,false,0
+11,21.5885,23.3806,21.6385,308.4,308.4,false,false,false,0
+12,23.3806,24.5333,23.4306,,,false,false,false,0
